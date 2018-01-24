@@ -40,13 +40,13 @@ test {
  }
  
  
- test {     
+ /*test {     
  useTestNG() {      
       useDefaultListeners = true      
       suiteXmlFilesm << new File("src/test/resources/testng/SampleScript.xml")         
       setSuiteXmlFiles(suiteXmlFiles)    
     }
-}
+}*/
 
 
 
