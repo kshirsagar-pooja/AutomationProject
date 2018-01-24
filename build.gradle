@@ -33,11 +33,11 @@ dependencies {
  
 }
 
-/*test {
+test {
      useTestNG {
          suites 'src/test/resources/testng/SampleScript.xml'
      }
- }*/
+ }
  
  
  test {     
